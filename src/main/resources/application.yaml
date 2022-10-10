@@ -1,0 +1,4 @@
+application:
+  jwt:
+    secretKey: NEXTTECH
+    expirationTime: 216000000 # 60 minutes
